@@ -12,3 +12,4 @@ c:\Users\anton.faren\Documents\Prog1\näsan03\näsan03\obj\Debug\net8.0\refint\n
 c:\Users\anton.faren\Documents\Prog1\näsan03\näsan03\obj\Debug\net8.0\näsan03.pdb
 c:\Users\anton.faren\Documents\Prog1\näsan03\näsan03\obj\Debug\net8.0\näsan03.genruntimeconfig.cache
 c:\Users\anton.faren\Documents\Prog1\näsan03\näsan03\obj\Debug\net8.0\ref\näsan03.dll
+C:\Users\anton.faren\Documents\Prog1\näsan03\näsan03\obj\Debug\net8.0\näsan03.sourcelink.json
